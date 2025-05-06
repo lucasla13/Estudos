@@ -239,5 +239,4 @@ def carregar_csv(nome_arquivo: str) -> dict:
     return dados
 
 # -- EXECUÇÃO --
-if __name__ == "__main__":
-    main()
+main()
